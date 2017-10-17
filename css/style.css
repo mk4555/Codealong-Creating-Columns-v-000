@@ -120,3 +120,8 @@ section {
 * {
   box-sizing: border-box;
 }
+
+#social{
+  position: fixed;
+  right: 0;
+}
