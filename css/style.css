@@ -92,3 +92,6 @@ figcaption {
 .col-3{
   background-color: #ccc;
 }
+[class*="col-"] {
+
+}
