@@ -99,3 +99,7 @@ figcaption {
 .first {
   margin-left: 0%;
 }
+.clearfix:after {
+  content: ".";
+  
+}
